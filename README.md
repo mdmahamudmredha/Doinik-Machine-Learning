@@ -14,7 +14,7 @@ Explore the full series here —
 
 ### 🤖 What is Machine Learning | Application of ML | Doinik Machine Learning | Bangla | Dropout Programmer
 
-###Welcome to **Doinik Machine Learning Day_01**!  
+### Welcome to **Doinik Machine Learning Day_01**!  
 এই সেশনে আমরা আলোচনা করেছি —  
 ✅ মেশিন লার্নিং (Machine Learning) কি?  
 ✅ মেশিন লার্নিং কিভাবে কাজ করে?   
