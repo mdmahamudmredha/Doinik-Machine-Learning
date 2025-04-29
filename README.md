@@ -14,7 +14,7 @@ Explore the full series here —
 
 ### 🤖 What is Machine Learning | Application of ML | Doinik Machine Learning | Bangla | Dropout Programmer
 
-Welcome to **Doinik Machine Learning Day_01**!  
+###Welcome to **Doinik Machine Learning Day_01**!  
 এই সেশনে আমরা আলোচনা করেছি —  
 ✅ মেশিন লার্নিং (Machine Learning) কি?  
 ✅ মেশিন লার্নিং কিভাবে কাজ করে?   
@@ -27,14 +27,14 @@ Welcome to **Doinik Machine Learning Day_01**!
 ### 🎥 **Video Link - Doinik Machine Learning Day_01**
 👉 [Watch the Full Video on YouTube](https://youtu.be/bAvZpivAqaE)
 
-### 📓 **Jupyter Notebook (IPYNB)**  
-*(Coming Soon)*
+### 📓 **Jupyter Notebook (IPYNB)**
+[![Open In Colab]()
 
-### 📝 **Class Notes (PDF)**  
-*(Coming Soon)*
+### 📝 **Class Notes (PDF)**
+[Download Notes](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2001/image.png)
 
 ### 📑 **PPT Slides**
-*(Coming Soon)*
+[Download PPT](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2001/image.png)
 
 ---
 
