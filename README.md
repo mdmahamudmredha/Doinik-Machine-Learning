@@ -49,20 +49,19 @@ Explore the full series here —
 ✅ মডেল ভাল পারফর্ম করছে কিনা বোঝার কৌশল  
 ✅ Bias-Variance Tradeoff সম্পর্কে ধারণা
 
-
 ### 📚 Resources - Notes, Slides & Video
 
 ### 🎥 **Video Link - Doinik Machine Learning Day_02**
 👉 [Watch the Full Video on YouTube](https://youtu.be/your_video_link_here)
 
 ### 📓 **Jupyter Notebook (IPYNB)**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2002/notebook.ipynb)
+[![Open In Colab](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/train_test_split.ipynb)
 
 ### 📝 **Class Notes (PDF)**
-[Download Notes](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2002/class_notes.pdf)
+[Download Notes]()
 
 ### 📑 **PPT Slides**
-[Download PPT](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2002/slides.pptx)
+[Download PPT](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/Split%20Dataset.pptx)
 
 ---
 
