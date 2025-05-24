@@ -48,20 +48,20 @@ Explore the full series here —
 ✅ কখন আমরা Algorithm বলি আর কখন Model বলি  
 ✅ বাস্তব জীবনের উদাহরণ দিয়ে কনসেপ্ট ব্যাখ্যা
 
+
 ### 📚 Resources - Notes, Slides & Video
 
 ### 🎥 **Video Link - Doinik Machine Learning Day_03**
 👉 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=P6AcxYgzEHI)
 
 ### 📓 **Jupyter Notebook (IPYNB)**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/notebook.ipynb)
+[![Open In Colab]()
 
 ### 📝 **Class Notes (PDF)**
 [Download Notes](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/class_notes.pdf)
 
 ### 📑 **PPT Slides**
-[Download PPT](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/slides.pptx)
-
+[Download PPT](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2002/Types%20of%20ML%20(1).pptx)
 
 ---
 
@@ -75,6 +75,7 @@ Explore the full series here —
 ✅ Underfitting ও Overfitting এর মধ্যে পার্থক্য  
 ✅ মডেল ভাল পারফর্ম করছে কিনা বোঝার কৌশল  
 ✅ Bias-Variance Tradeoff সম্পর্কে ধারণা
+
 
 ### 📚 Resources - Notes, Slides & Video
 
