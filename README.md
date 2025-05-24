@@ -38,6 +38,33 @@ Explore the full series here —
 
 ---
 
+### 🤖 Types of Machine Learning | Supervised vs Unsupervised vs Reinforcement | Algorithm vs Model | Bangla Tutorial | Dropout Programmer
+
+### Welcome to **Doinik Machine Learning Day_02**!  
+এই সেশনে আমরা আলোচনা করেছি —  
+✅ মেশিন লার্নিং-এর ৩টি প্রধান ধরণ: Supervised, Unsupervised, এবং Reinforcement Learning  
+✅ প্রতিটির কাজ, উদাহরণ ও ব্যবহার ক্ষেত্র  
+✅ ML Algorithm এবং ML Model-এর মধ্যে পার্থক্য  
+✅ কখন আমরা Algorithm বলি আর কখন Model বলি  
+✅ বাস্তব জীবনের উদাহরণ দিয়ে কনসেপ্ট ব্যাখ্যা
+
+### 📚 Resources - Notes, Slides & Video
+
+### 🎥 **Video Link - Doinik Machine Learning Day_03**
+👉 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=P6AcxYgzEHI)
+
+### 📓 **Jupyter Notebook (IPYNB)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/notebook.ipynb)
+
+### 📝 **Class Notes (PDF)**
+[Download Notes](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/class_notes.pdf)
+
+### 📑 **PPT Slides**
+[Download PPT](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/slides.pptx)
+
+
+---
+
 ### 🤖 Train Test Split | Train & Test data | K-Fold Cross Validation | Under-fitting | Over-fitting | Bangla | Dropout Programmer
 
 ### Welcome to **Doinik Machine Learning Day_03**!  
