@@ -52,7 +52,7 @@ Explore the full series here —
 ### 📚 Resources - Notes, Slides & Video
 
 ### 🎥 **Video Link - Doinik Machine Learning Day_02**
-👉 [Watch the Full Video on YouTube](https://youtu.be/your_video_link_here)
+👉 [Watch the Full Video on YouTube](https://youtu.be/QqbYcXZahmM)
 
 ### 📓 **Jupyter Notebook (IPYNB)**
 [![Open In Colab](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2003/train_test_split.ipynb)
