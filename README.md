@@ -38,6 +38,34 @@ Explore the full series here —
 
 ---
 
+### 🤖 Train Test Split | Train & Test data | K-Fold Cross Validation | Under-fitting | Over-fitting | Bangla | Dropout Programmer
+
+### Welcome to **Doinik Machine Learning Day_03**!  
+এই সেশনে আমরা আলোচনা করেছি —  
+✅ Train ও Test Data কী এবং কেন এগুলো আলাদা করতে হয়  
+✅ Train-Test Split কিভাবে কাজ করে  
+✅ K-Fold Cross Validation এর পেছনের ধারণা  
+✅ Underfitting ও Overfitting এর মধ্যে পার্থক্য  
+✅ মডেল ভাল পারফর্ম করছে কিনা বোঝার কৌশল  
+✅ Bias-Variance Tradeoff সম্পর্কে ধারণা
+
+
+### 📚 Resources - Notes, Slides & Video
+
+### 🎥 **Video Link - Doinik Machine Learning Day_02**
+👉 [Watch the Full Video on YouTube](https://youtu.be/your_video_link_here)
+
+### 📓 **Jupyter Notebook (IPYNB)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2002/notebook.ipynb)
+
+### 📝 **Class Notes (PDF)**
+[Download Notes](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2002/class_notes.pdf)
+
+### 📑 **PPT Slides**
+[Download PPT](https://github.com/mdmahamudmredha/Doinik-Machine-Learning/blob/main/Day%20-%2002/slides.pptx)
+
+---
+
 ### 🔗 **Doinik Machine Learning Full Playlist**
 Explore the full series here —  
 👉 [দৈনিক মেশিন লার্নিং প্লেলিস্ট - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfrfyBvSemI5sC8WVW0yfvw0)
