@@ -51,7 +51,7 @@ Explore the full series here —
 
 ### 📚 Resources - Notes, Slides & Video
 
-### 🎥 **Video Link - Doinik Machine Learning Day_03**
+### 🎥 **Video Link - Doinik Machine Learning Day_02**
 👉 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=P6AcxYgzEHI)
 
 ### 📓 **Jupyter Notebook (IPYNB)**
@@ -79,7 +79,7 @@ Explore the full series here —
 
 ### 📚 Resources - Notes, Slides & Video
 
-### 🎥 **Video Link - Doinik Machine Learning Day_02**
+### 🎥 **Video Link - Doinik Machine Learning Day_03**
 👉 [Watch the Full Video on YouTube](https://youtu.be/QqbYcXZahmM)
 
 ### 📓 **Jupyter Notebook (IPYNB)**
