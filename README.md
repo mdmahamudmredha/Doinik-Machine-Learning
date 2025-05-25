@@ -45,7 +45,7 @@ Explore the full series here —
 ✅ মেশিন লার্নিং-এর ৩টি প্রধান ধরণ: Supervised, Unsupervised, এবং Reinforcement Learning  
 ✅ প্রতিটির কাজ, উদাহরণ ও ব্যবহার ক্ষেত্র  
 ✅ ML Algorithm এবং ML Model-এর মধ্যে পার্থক্য  
-✅ কখন আমরা Algorithm বলি আর কখন Model বলি  
+✅ কোনটা অ্যালগরিদম আর কোনটা মডেল এই সম্পর্কে জানব
 ✅ বাস্তব জীবনের উদাহরণ দিয়ে কনসেপ্ট ব্যাখ্যা
 
 
